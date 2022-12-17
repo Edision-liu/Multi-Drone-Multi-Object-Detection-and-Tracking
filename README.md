@@ -21,8 +21,8 @@
 
 
 
-## FAQ
-Please refer to ![FAQ](https://github.com/Edision-liu/Multi-Drone-Multi-Object-Detection-and-Tracking/edit/main/README.md) for frequently asked questions.
+<!-- ## FAQ
+Please refer to ![FAQ](https://github.com/Edision-liu/Multi-Drone-Multi-Object-Detection-and-Tracking/edit/main/README.md) for frequently asked questions. -->
 
 
 ## Citation
