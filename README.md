@@ -36,7 +36,7 @@ mmdet                          2.25.1)
 >>>> val/
 >>>> test/
 ### Inference
-Inference MIA-Net:
+1.Inference MIA-Net:
 
     python ./demo/supplement_MIA.py
 import arguments:
@@ -51,18 +51,18 @@ import arguments:
 
 `--method`'  the output directory name used in result_dir
 
-Inference MIA-Net(w/o supplementation), MIA-Net(w/ localmatching), MIA-Net(w/ globalmatching), run:
+2.Inference MIA-Net(w/o supplementation), MIA-Net(w/ localmatching), MIA-Net(w/ globalmatching), run:
     
     python ./demo/multiDrone_matchingIDallocation-NMS.py
     python ./demo/multiDrone_localmatching-NMS.py
     python ./demo/multiDrone_globalmatching-NMS.py
 ### Evaluation
-For tracking perforcement:
+1.For tracking perforcement:
 
     python ./demo/eval/json_2_txt.py [--sequences_result] [--output_dir]
     python ./demo/eval/txttxt_test.py [--test_file_dir]
 
-For MDA score:
+2.For MDA score:
 
     python ./demo/eval/mango_eval.py [--sequences_result]
 
