@@ -47,12 +47,12 @@ Inference MIA-Net(w/o supplementation), MIA-Net(w/ localmatching), MIA-Net(w/ gl
 ### Evaluation
 For tracking perforcement:
 
-    python ./demo/eval/json_2_txt.py
-    python ./demo/eval/txttxt_test.py
+    python ./demo/eval/json_2_txt.py [--sequences_result] [--output_dir]
+    python ./demo/eval/txttxt_test.py [--test_file_dir]
 
 For MDA score:
 
-    python ./demo/eval/mango_eval.py
+    python ./demo/eval/mango_eval.py [--sequences_result]
 
 
 <!-- ## FAQ
