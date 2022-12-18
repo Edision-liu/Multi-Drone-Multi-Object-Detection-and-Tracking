@@ -39,6 +39,18 @@ mmdet                          2.25.1)
 Inference MIA-Net:
 
     python ./demo/supplement_MIA.py
+import arguments:
+
+`--config` config file
+
+`--input`  input data folder
+
+`--xml_dir`  input xml file of the groundtruth
+                    
+`--result_dir`  result_dir name, no "/" in the end
+
+`--method`'  the output directory name used in result_dir
+
 Inference MIA-Net(w/o supplementation), MIA-Net(w/ localmatching), MIA-Net(w/ globalmatching), run:
     
     python ./demo/multiDrone_matchingIDallocation-NMS.py
