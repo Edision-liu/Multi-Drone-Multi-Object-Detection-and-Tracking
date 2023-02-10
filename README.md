@@ -47,9 +47,9 @@ import arguments:
 
 `--xml_dir`  input xml file of the groundtruth
                     
-`--result_dir`  result_dir name, no "/" in the end
+`--result_dir`  the directory to save results, no "/" in the end
 
-`--method`'  the output directory name used in result_dir
+`--method`'  the sub-directory used in result_dir, representing different methods
 
 2.Inference MIA-Net(w/o supplementation), MIA-Net(w/ localmatching), MIA-Net(w/ globalmatching), run:
     
