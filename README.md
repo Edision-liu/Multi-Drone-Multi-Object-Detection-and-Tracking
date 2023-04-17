@@ -72,10 +72,10 @@ Please refer to ![FAQ](https://github.com/Edision-liu/Multi-Drone-Multi-Object-D
 
 
 ## Citation
-@article{liu2023robust,
-  title={Robust Multi-Drone Multi-Target Tracking to Resolve Target Occlusion: A Benchmark},
-  author={Liu, Zhihao and Shang, Yuanyuan and Li, Timing and Chen, Guanlin and Wang, Yu and Hu, Qinghua and Zhu, Pengfei},
-  journal={IEEE Transactions on Multimedia},
-  year={2023},
-  publisher={IEEE}
-}
+    @article{liu2023robust,
+        title={Robust Multi-Drone Multi-Target Tracking to Resolve Target Occlusion: A Benchmark},
+        author={Liu, Zhihao and Shang, Yuanyuan and Li, Timing and Chen, Guanlin and Wang, Yu and Hu, Qinghua and Zhu, Pengfei},
+        journal={IEEE Transactions on Multimedia},
+        year={2023},
+        publisher={IEEE}
+    }
